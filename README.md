@@ -70,6 +70,9 @@ server.registerPaidTool(
 );
 ```
 
+## Powered by PaidMCP
+- [f418.me Paid MCP Server](https://github.com/f418me/f418me-mcp-server) - Send SMS message from your agent, paid with sats
+
 ## Examples
 
 - [Weather example](./examples/weather/README.md) - simple example of a paid `get_weather` tool
